@@ -19,3 +19,6 @@ pytest            # report at reports/report.html
 
 ## Stack
 Selenium 4 · pytest · POM · webdriver-manager · pytest-html · GitHub Actions CI.
+
+
+<img width="1920" height="510" alt="image" src="https://github.com/user-attachments/assets/f5ed8bb5-794a-4574-8e28-3be760505e9c" />
